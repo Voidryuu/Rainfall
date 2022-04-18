@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Rainfall": {
+      "commandName": "Project",
+      "commandLineArgs": " -t "
+    }
+  }
+}
