@@ -7,8 +7,8 @@ Controls:
 - [tab] to change enemy        
 - [esc] to quit the game    
 
-![](Rainfall/images/screenshot1.png)
-![](Rainfall/images/screenshot2.png) 
+![](Rainfall/images/screenshot1.PNG)
+![](Rainfall/images/screenshot2.PNG) 
 
 # Extra options
 You can optionally run the program with the following options:
